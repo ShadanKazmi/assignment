@@ -22,7 +22,7 @@ const InfoCard = () => {
         opacity: 1,
         padding: { xs: '8px', sm: '12px', md: '17px 53px' },
         borderRadius: '20px',
-        margin: { xs: '16px auto', md: '96px auto' },
+        margin: { xs: '16px auto', md: '35px auto' },
         boxSizing: 'border-box',
         position: 'relative',
       }}
